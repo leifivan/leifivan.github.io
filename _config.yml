@@ -6,15 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+
+# > # this means to ignore newlines until "baseurl:"
 title: Leaves
 email: leafvans@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Just wow everyday :)).
-  毎日okですよ！
+  Just wow everyday. (​*´﹃｀*​) <br />
+  毎日okになるんですよ！ （＾o＾）ﾉｼ
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  leifivan
+facebook_username: leafvans
 
 # Build settings
 markdown: kramdown
