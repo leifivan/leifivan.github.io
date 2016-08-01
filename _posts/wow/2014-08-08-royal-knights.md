@@ -10,7 +10,7 @@ modified: 2016-08-01T14:17:50-04:00
 
 Explore the world of `Mundo` as one of the Royal Knights of Liches, a knight that only takes order directly from the King! 
 
-### Meet random anime characters!
+### Meet anime characters!
 
 Find and challenge your favorite anime characters as you explore!
 
