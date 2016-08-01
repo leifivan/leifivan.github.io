@@ -5,7 +5,6 @@ excerpt: "My first attempt at creating an rpg game."
 categories: blog
 tags: [royal-knights, RPG]
 comments: true
-modified: 2016-08-01T14:17:50-04:00
 ---
 
 Explore the world of `Mundo` as one of the Royal Knights of Liches, a knight that only takes order directly from the King! 
