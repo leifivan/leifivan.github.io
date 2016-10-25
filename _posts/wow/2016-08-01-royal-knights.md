@@ -7,7 +7,7 @@ tags: [royal-knights, RPG]
 comments: true
 ---
 
-Explore the world of `Mundo` as one of the Royal Knights of Liches, A knight that only take orders directly from the King! 
+Explore the world of `Mundo` as one of the Royal Knights of Liches, a knight that only take orders directly from the King! 
 
 ### Meet anime characters!
 
